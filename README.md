@@ -1,2 +1,4 @@
 # GetNextLine
-Function that permit to read file line by line in C
+The purpose of this project is to design a function that can read an entire input file, line by line.
+
+It will return 0 if the entire file has been played and 1 otherwise.
